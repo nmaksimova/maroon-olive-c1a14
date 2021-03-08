@@ -35,6 +35,7 @@ sections:
     grid_items:
       - image_alt: Contentful logo
         image_align: center
+        image: images/Adult_Dance_Group_Class.jpg
       - image_alt: Netlify logo
         image_align: center
       - image: images/logo-3.svg
